@@ -42,9 +42,9 @@ made by @ashishpremdupadu02-ai and @notdeathlyatall
 10. What can teachers do?   
  Teachers can view student attendance, approve or reject attendance requests, edit attendance records, open or close attendance periods, reset attendance when authorized, and manage on-duty records.
 
-11. What should I do if I cannot log in? 
+11. What should I do if I cannot log in?   
  Check that you are using the correct account details and that your internet connection is working. If the problem continues, contact the teacher or the developers.
 
-12. What should I do if my attendance is incorrect? 
+12. What should I do if my attendance is incorrect?   
  Contact your teacher and explain the issue. An a teacher can review the record and make corrections.
 

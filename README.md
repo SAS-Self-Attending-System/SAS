@@ -8,9 +8,8 @@ made by @ashishpremdupadu02-ai and @notdeathlyatall
 # 
 # Frequently Asked Questions (FAQ)
 
-1. What is the Self-Attending System?
-
-The Self-Attending System is a digital school attendance platform designed to simplify attendance management. It allows students to submit attendance requests, teachers to verify and manage attendance records, and authorized administrators to maintain the system efficiently.
+1. What is the Self-Attending System?      
+ The Self-Attending System is a digital school attendance platform designed to simplify attendance management. It allows students to submit attendance requests, teachers to verify and manage attendance records, and authorized administrators to maintain the system efficiently.
 
 3. How do I access the website?
 

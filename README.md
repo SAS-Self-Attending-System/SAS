@@ -31,7 +31,7 @@ made by @ashishpremdupadu02-ai and @notdeathlyatall
 
  - A — Absent: Your attendance has been marked Absent.
 
- — — Not Marked: No attendance status has been recorded yet.
+ - — — Not Marked: No attendance status has been recorded yet.
 
 8. What is the On-Duty feature?   
  The On-Duty feature allows an eligible student to submit an on-duty request through the student portal. The system checks the student's attendance status before allowing the request.
